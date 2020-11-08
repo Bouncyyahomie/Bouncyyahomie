@@ -1,4 +1,4 @@
-## <img height="40" src="https://giphy.com/gifs/power-sasuke-electricity-GLgPVZ5PLMOPe"/>
+## <img height="40" src="https://media0.giphy.com/media/GLgPVZ5PLMOPe/giphy.gif?cid=ecf05e478rzi55b0ee9805pjeke4m62484hvcw61li83gth3&rid=giphy.gif"/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Bouncyyahomie&theme=blue-green)](https://github.com/Bouncyyahomie/github-readme-stats)
 
