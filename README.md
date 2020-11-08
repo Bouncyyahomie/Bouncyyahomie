@@ -4,8 +4,9 @@
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Bouncyyahomie&theme=pink-green)
 
+Now playing::
 <a href="https://open.spotify.com/track/405SQUJdQut02dxtuQ0CZ3?si=zuqfd7pGTj6ZPVutoi-h6A/?opened">
-  <img src="https://cdn.discordapp.com/attachments/689474874762461249/775048719707930644/Screen_Shot_2563-11-09_at_00.26.49.png" alt="Now Playing">
+  <img src="https://cdn.discordapp.com/attachments/689474874762461249/775048719707930644/Screen_Shot_2563-11-09_at_00.26.49.png" width="340" height="340" alt="Now Playing">
 </a>
 
 <!-- <div id = "some_issues">
