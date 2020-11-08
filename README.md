@@ -3,7 +3,7 @@
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Bouncyyahomie&theme=pink-green)
 
 <a href="https://open.spotify.com/track/405SQUJdQut02dxtuQ0CZ3?si=zuqfd7pGTj6ZPVutoi-h6A/?opened">
-  <img src="https://open.spotify.com/track/405SQUJdQut02dxtuQ0CZ3?si=zuqfd7pGTj6ZPVutoi-h6A" width="340" height="340" alt="Now Playing">
+  <img src="https://spotify.com/track/405SQUJdQut02dxtuQ0CZ3?si=zuqfd7pGTj6ZPVutoi-h6A" width="340" height="340" alt="Now Playing">
 </a>
 
 <!-- <div id = "some_issues">
