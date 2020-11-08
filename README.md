@@ -2,7 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Bouncyyahomie&theme=blue-green)](https://github.com/Bouncyyahomie/github-readme-stats)
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Bouncyyahomie&theme=pink-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Bouncyyahomie&theme=blue-green)
 
 <div>
   <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
