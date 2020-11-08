@@ -4,21 +4,8 @@
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Bouncyyahomie&theme=pink-green)
 
-Now playing::
-<a href="https://open.spotify.com/track/405SQUJdQut02dxtuQ0CZ3?si=zuqfd7pGTj6ZPVutoi-h6A/?opened">
-  <img src="https://cdn.discordapp.com/attachments/689474874762461249/775048719707930644/Screen_Shot_2563-11-09_at_00.26.49.png" width="340" height="340" alt="Now Playing">
-</a>
-
-<!-- <div id = "some_issues">
-  <p>It is a little list of problems you can face while implementing this kind of stuff</p>
-  <ul id = "problem_list">
-    <li>
-      Github tend to cache anonymized URL, so you should visit this link if you have problem with image cache.
-      https://docs.github.com/es/github/authenticating-to-github/about-anonymized-image-urls
-    </li>
-    <li>
-      When you wrap your HTML in SVG/foreignObject maybe nothing show up. You can solve this issue visiting this link.
-      https://stackoverflow.com/questions/13848039/svg-foreignobject-contents-do-not-display-unless-plain-text
-    </li>
-  </ul>
-</div> -->
+<div>
+  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
+  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
+  <a href="https://www.buymeacoffee.com/kevcui" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
+</div>
