@@ -2,8 +2,9 @@
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Bouncyyahomie&theme=blue-green)
 
-<h5>Now listening::</h5>
+
 <a href="https://now-playing-profile-phi-nine.vercel.app/now-playing?open">
+    <h5>Now listening::</h5>
     <img src="https://now-playing-profile-phi-nine.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
 
