@@ -7,8 +7,3 @@
     <img src="https://now-playing-profile-phi-nine.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
 
-<div>
-  <a href="https://www.youtube.com/watch?v=jNGuk59UWeI" target="_blank"><img src="https://media4.giphy.com/media/UWmerXS1W8h7CML7tG/giphy.gif?cid=ecf05e47x8cuxzoqnol9lxkuazmr365mkzzqgjb5dpcjb63j&rid=giphy.gif" width="280" height="auto" /></a>
-  <a href="https://www.youtube.com/watch?v=jNGuk59UWeI" target="_blank"><img src="https://media4.giphy.com/media/UWmerXS1W8h7CML7tG/giphy.gif?cid=ecf05e47x8cuxzoqnol9lxkuazmr365mkzzqgjb5dpcjb63j&rid=giphy.gif" width="280" height="auto" /></a>
-  <a href="https://www.youtube.com/watch?v=jNGuk59UWeI" target="_blank"><img src="https://media4.giphy.com/media/UWmerXS1W8h7CML7tG/giphy.gif?cid=ecf05e47x8cuxzoqnol9lxkuazmr365mkzzqgjb5dpcjb63j&rid=giphy.gif" width="280" height="auto" /></a>
-</div>
